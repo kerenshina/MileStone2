@@ -44,5 +44,5 @@ g++ -std=c++14 *.cpp -Wall -Wextra -Wshadow -Wnon-virtual-dtor -pedantic -o a.ou
 
 https://github.com/sdonte980/
 
-https://github.com/kerenshina/
+https://github.com/kerenshina/MileStone2/
 
