@@ -2,7 +2,7 @@
 
 **Introduction:**
 
-Continue to Flight Simulator Project in MileStone 1
+Continue the "Flight Simulator" Project in "MileStone 1"
 
 This project contains the following elements:
 - Use of design and architecture templates.
