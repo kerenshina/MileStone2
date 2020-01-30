@@ -1,6 +1,9 @@
 # Course Advanced-Programming 1 - 89210 : MileStone 2 
+
 **Introduction:**
+
 Continue to Flight Simulator Project in MileStone 1
+
 This project contains the following elements:
 - Use of design and architecture templates.
 - Communication
